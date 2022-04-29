@@ -262,7 +262,7 @@ def main():
             
             if (warning == '1'):
                 
-                victim = raw_input('Insert the victim username (Bypass friends list first): ')
+                victim = raw_input('Insert the victim https://www.facebook.com/alexanderarominjr (Bypass friends list first): ')
                 
                 if (globalLogin == False):
                     email,password = setMail()
